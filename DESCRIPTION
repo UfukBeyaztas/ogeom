@@ -1,0 +1,20 @@
+Package: ogeom
+Type: Package
+Title: Nonlinear Regression on Sparsely Observed Gaussian Curves
+Version: 0.1.0
+Authors@R: person("Ufuk", "Beyaztas", email = "ufuk.beyaztas@marmara.edu.tr",
+    role = c("aut", "cre"))
+Description: Implements Galerkin chaos estimators for binary regression on a
+    Gaussian trajectory that is measured at a few irregular times per subject.
+    The package computes the exact conditional features and the information
+    operators of a sampling design, which show which nonlinear effects of the
+    trajectory the design can identify, and fits the estimators with an
+    unbiased risk criterion for the truncation level. Data-generating functions
+    reproduce the simulation designs of the accompanying paper, including
+    Brownian motion measured once at a uniformly distributed time.
+License: GPL (>= 3)
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Imports: stats
+Suggests: fdapace
+NeedsCompilation: no

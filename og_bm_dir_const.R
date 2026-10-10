@@ -1,0 +1,1 @@
+og_bm_dir_const <- function() function(t) matrix(t, ncol = 1)
