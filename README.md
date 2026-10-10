@@ -41,7 +41,7 @@ install.packages("fdapace")
 
 ## User manual
 
-The reference manual documents every exported function, with the underlying theory and examples: [**ogeom_0.1.0.pdf**](ogeom_0.1.0.pdf). After installation, the same help pages are available in R:
+The reference manual documents every exported function: [**ogeom_0.1.0.pdf**](ogeom_0.1.0.pdf). After installation, the same help pages are available in R:
 
 ```r
 help(package = "ogeom")
