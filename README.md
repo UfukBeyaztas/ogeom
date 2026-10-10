@@ -150,12 +150,6 @@ The chaos expansion is taken with respect to the Gaussian law. A skewed trajecto
 | Brownian motion | `og_bm_spectral()`, `og_bm_augmented()`, `og_bm_kernel()`, `og_bm_J()`, `og_fb_eigen()`, `og_fb_phi()`, `og_bessel_j0_zeros()`, `og_bm_dir_fb()` |
 | Simulation | `og_simulation_design()`, `og_simulate()`, `og_simulate_bm()`, `og_scenario()`, `og_design_sampler()`, `og_true_coefficients()`, `og_oracle_Kg()` |
 
-## Citation
-
-If you use `ogeom`, please cite the accompanying paper:
-
-> Beyaztas, U. (2026). Nonlinear regression on sparsely observed Gaussian curves: identification thresholds and minimax rates. Manuscript.
-
 ## License
 
 GPL (>= 3)
