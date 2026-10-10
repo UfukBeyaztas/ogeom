@@ -24,8 +24,6 @@ The package provides
 - **Fourier–Bessel estimators** for Brownian motion measured once at a uniformly distributed time;
 - **data-generating functions** that reproduce all simulation designs of the accompanying paper.
 
-The package is written in base R and needs no compilation.
-
 ## Installation
 
 Install the development version from GitHub:
